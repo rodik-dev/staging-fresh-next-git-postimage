@@ -176,8 +176,6 @@ models:
         label: Footer Configuration
         models:
           - footer
-    singleInstance: true
-    file: config.json
   header:
     type: object
     label: Header Configuration
